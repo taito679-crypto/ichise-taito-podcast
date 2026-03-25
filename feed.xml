@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>一ノ瀬泰斗の朗読</title>
+    <link>https://taito679-crypto.github.io/ichise-taito-podcast</link>
+    <description>小説家・一ノ瀬泰斗による短編小説。日常の裂け目に落ちた感情を、声で届けます。</description>
+    <language>ja</language>
+    <atom:link rel="self" type="application/rss+xml" href="https://taito679-crypto.github.io/ichise-taito-podcast/feed.xml" />
+    <itunes:author>一ノ瀬泰斗</itunes:author>
+    <itunes:owner>
+      <itunes:name>一ノ瀬泰斗</itunes:name>
+      <itunes:email>taito679@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category>Arts</itunes:category>
+    <item>
+      <title>【朗読】本当の優しさ</title>
+      <description>【本当の優しさ】一ノ瀬泰斗の心理小説朗読</description>
+      <content:encoded>【本当の優しさ】一ノ瀬泰斗の心理小説朗読</content:encoded>
+      <guid>f9452c120c8070a21b0230c3b31bf42f</guid>
+      <pubDate>Wed, 25 Mar 2026 15:56:50 -0000</pubDate>
+      <enclosure url="https://taito679-crypto.github.io/ichise-taito-podcast/episodes/本当の優しさ.mp3" length="27677785" type="audio/mpeg" />
+      <itunes:duration>38:47</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episode>1</itunes:episode>
+    </item>
+  </channel>
+</rss>
