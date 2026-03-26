@@ -98,5 +98,15 @@
     "published_at": "2026-03-26T09:55:28.163538",
     "episode_number": 10,
     "guid": "329e676642d7fa77aed8b4fe15a0c497"
+  },
+  {
+    "title": "【朗読】あなたは今死んでいる",
+    "description": "【あなたは今死んでいる】一ノ瀬泰斗の心理小説朗読",
+    "mp3_url": "https://taito679-crypto.github.io/ichise-taito-podcast/episodes/あなたは今死んでいる.mp3",
+    "mp3_size": 23282878,
+    "duration_sec": 1964.174921,
+    "published_at": "2026-03-26T10:17:51.211684",
+    "episode_number": 11,
+    "guid": "3367b2c44d982b6ae00121a6778ce91d"
   }
 ]
